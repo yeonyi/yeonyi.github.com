@@ -1,0 +1,15 @@
+Public static void main(String name[] args)
+Public static void main(String sound[] args){
+ 
+  Animal[] zoo = new Animal[5]{
+    
+    zoo[0] = new Animal("tiger","어흥");
+    zoo[1] = new Animal("dog","멍멍");
+    zoo[2] = new Animal("cat","야옹");
+    zoo[3] = new Animal("goat","메헤~");
+    zoo[4] = new Animal("pig","꿀꿀");
+    
+      System.out.println(String name)
+      System.out.println(String sound)
+  }
+}
